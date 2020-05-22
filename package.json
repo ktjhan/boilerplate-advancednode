@@ -8,6 +8,7 @@
   "description": "What am I about?",
   "main": "server.js",
   "scripts": {
+    "server": "nodemon index.js",
     "start": "node server.js"
   },
   "dependencies": {
